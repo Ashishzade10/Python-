@@ -14,28 +14,10 @@ o	Subtraction
 o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen.
- Expected Output:
-The output should include the result of each operation performed, for example:
- 
+
+
 Task 2: Create a Personalized Greeting
 Problem Statement: Write a Python program that:
 1.  Takes a user's first name and last name as input.
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
-Expected Output:
-The program should output a greeting like:
- 
- 
-Submission Instructions:
-Please watch the following video and follow the steps shown in it to complete your assignment: Video Link: https://drive.google.com/file/d/1W7zBA-jT-4hc-pmCEpHLMEO6GipFXPv5/view 
-Create a GitHub repository and upload your Python scripts (.py files).
-Ensure the repository includes a README.md file that describes the functionality of your programs.
-Add both Task 1 and Task 2 scripts in the same repository.
-Submit the link to your GitHub repository once uploaded.
-
-Reference:
-Follow the Python course - Module 2: Basic Python Concepts for additional guidelines and examples. 
-Note: Please test your project thoroughly and check all the validations and error handling prior to ensure it works as expected before submission.
-You can always connect to the mentor using the chat support option for any doubts or queries!
- 
-
